@@ -1,0 +1,11 @@
+CREATE TABLE NU_FATURA (
+	SIT_FATURA 				varchar(255) 		NOT NULL,
+	DAT_FECHAMENTO 			varchar(255)		NOT NULL,
+	DAT_VENCIMENTO 			varchar(255)		NOT NULL,
+	DAT_VENCIMENTO_EFETIVO	varchar(255)		NOT NULL,
+	VAL_TOTAL				float,
+	VAL_TX_JUROS			varchar(255)		NOT NULL,
+	VAL_JUROS				varchar(255)		NOT NULL,
+	DAT_ABERTURA			varchar(255),
+	ID_FATURA				varchar(255)
+)
