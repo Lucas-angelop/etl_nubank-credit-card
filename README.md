@@ -1,11 +1,10 @@
-<center><img src="../etl_nubank-credit-card/img/nubank.png" alt="Nubank"></center>  
 # ETL Nubank
 
 Pipeline de ETL utilizando [pandas](https://pandas.pydata.org/) e [mysql](https://www.mysql.com/) com objetivo de adquirir e armazenar dados referentes ao cartão de crédito [Nubank](https://nubank.com.br) do usuário.  
 
 ##### Arquitetura proposta
 
-<center><img src="../etl_nubank-credit-card/img/arquitetura.png" alt="Arquitetura Atiginda"></center>  
+<center><img src="https://github.com/Lucas-angelop/etl_nubank-credit-card/blob/master/img/arquitetura.png" alt="Arquitetura Atiginda"></center>  
 
 ##### Objetivos
 - [x] **Obtenção dos dados**
